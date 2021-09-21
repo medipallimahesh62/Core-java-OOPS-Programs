@@ -1,0 +1,7 @@
+class grandfather
+{
+	public static father getfather()
+	{
+		return new father();
+	}
+}

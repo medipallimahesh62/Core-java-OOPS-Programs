@@ -1,0 +1,9 @@
+class Q  extends P
+{
+	public double j;
+	public void sample1()
+	{
+		System.out.println("age is 21");
+	}
+	
+}

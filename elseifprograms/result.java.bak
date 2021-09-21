@@ -1,0 +1,23 @@
+/* WAP to print student rank based on srtudent marks; refer below table 
+marks  | rank
+90-100 |  1
+70-89  |  2
+60-69  |  3
+50-59  |  4
+35-49  |  5
+0-34   |  fail */
+class  result
+{
+	public static void main(String[] args) 
+	{
+		int m= 95;
+		if((m>=90) && (m<=100))
+		{
+		  System.out.println(m+" is pass");
+		}
+		else
+		{
+			System.out.println(m+" is fail");
+		}
+	}
+}

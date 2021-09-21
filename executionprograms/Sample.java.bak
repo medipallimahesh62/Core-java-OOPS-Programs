@@ -1,0 +1,17 @@
+class Sample  
+{
+	public static double m=2.8;
+	public int n=3;
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello World!");
+		System.out.println("Hello World!");
+		Sample s1=new Sample();
+		Sample s2=new Sample();
+		Sample s3=new Sample();
+		System.out.println(s1.n);
+		System.out.println(s2.n);
+		System.out.println(s3.n);
+		
+	}
+}

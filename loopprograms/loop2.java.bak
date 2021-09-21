@@ -1,0 +1,10 @@
+class loop2 
+{
+	public static void main(String[] args) 
+	{
+		for(int =5;c>=1;c--)
+		{
+		  System.out.println("GOOD EVENING");
+		}
+	}
+}

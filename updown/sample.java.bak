@@ -1,0 +1,5 @@
+interface sample
+{
+	public void run();
+		
+}
